@@ -41,7 +41,7 @@ We need to enable XR features in Unity before our project will run on VR headset
 Next you'll download and import the Unity project files for this application.
 
  - Download the file below and unzip it:
- *vrMuseumPackage*
+ *[vrMuseumPackage](https://d3c33hcgiwev3.cloudfront.net/KOuBb5QFEei-ewqCW6OQ9g_2968ee10940511e88bda2587e80496e2_vrMuseumPackage.zip?Expires=1642982400&Signature=PaUNsHuWbPDK4ou4JG0OoP6Q1Wy3gIUWRLRN8y8lCTlX3iUnMIZ6-ZnZ0exOlmw86UZ1W7cXUg3V26OrW9uY35SKVZBFE9KmHsSy-YySyn72CnPiTVpXkav4uh5xohJD9uoRJwzYJpHBjhS5JoWkQoKG~S~OU5-1JWBR~aswppU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)*
  
  - In Unity, select Assets > Import Package > Custom Package
 
