@@ -25,7 +25,7 @@ Let's get the Vuforia SDK working in a new Unity project. If you already downloa
 
  - Install the SDK. You may be prompted to close the editor if it is open, or you may need to restart Unity for the changes to take effect.
 
-***NOTE: In some versions of Unity, the Vuforia SDK installer mechanism seems to be broken. If that is the case for you, please re-install Unity, and select Vuforia support in the Unity installer modules. We apologize for any inconvenience.
+***NOTE: In some versions of Unity, the Vuforia SDK installer mechanism seems to be broken. If that is the case for you, please re-install Unity, and select Vuforia support in the Unity installer modules. We apologize for any inconvenience.***
 
  - Open your project in Unity and check the Vuforia Augmented Reality Box. A License Agreement dialog will appear.
 
